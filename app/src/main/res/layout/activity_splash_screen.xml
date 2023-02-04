@@ -14,7 +14,7 @@
         android:fontFamily="@font/semibold"
         android:gravity="center"
         android:layout_gravity="center"
-        android:text="Login"
+        android:text="Login Bro..."
         android:textColor="@color/black"
         android:textSize="12pt"
         tools:layout_editor_absoluteX="16dp"
